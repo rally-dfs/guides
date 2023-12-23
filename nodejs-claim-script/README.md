@@ -1,4 +1,4 @@
-# Rally Mobile SDK Claim Script
+# RallyMobile SDK Claim Script
 
 This script is used as a demo script to claim a Rally Mobile Tokens (pRLY or RLY). 
 It is intended to be used in conjunction with the [Rally Mobile SDK](https://github.com/rally-dfs/rly-network-mobile-sdk)
