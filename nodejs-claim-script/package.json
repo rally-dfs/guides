@@ -1,0 +1,23 @@
+{
+  "name": "rallymobilesdk-nodejs-claim-script",
+  "version": "1.0.0",
+  "description": "A script to claim rewards from the Rally Network using some of the functionality from the RallyMobile SDK.",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/tsx src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["rally", "sdk", "typescript", "script"],
+  "author": "@codingwithmanny",
+  "license": "MIT",
+  "dependencies": {
+    "@rly-network/mobile-sdk": "^1.2.0",
+    "dotenv": "^16.3.1",
+    "ethers": "5",
+    "tsx": "^4.6.2",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+   }
+}
